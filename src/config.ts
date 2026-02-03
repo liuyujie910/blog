@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://chiri.the3ash.com/', // Site domain
+    website: 'https://liuyujie.cv/', // Site domain
     title: 'lorraine liu', // Site title
     author: 'yujie', // Author name
     description: 'winds of destiny change.', // Site description
